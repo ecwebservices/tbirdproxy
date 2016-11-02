@@ -79,7 +79,7 @@ $CONFIG['path_info_urls'] = false;
 # Generate unique URLs for each visitor. This increases privacy for
 # the user but you cannot create links directly to proxied pages
 # from outside the script if this option is enabled.
-$CONFIG['unique_urls'] = false;
+$CONFIG['unique_urls'] = true;
 
 
 /*****************************************************************
@@ -101,7 +101,7 @@ $CONFIG['hotlink_domains'] = array();
 
 # Enable/disable the logging feature. If disabled, skip the rest of
 # this section.
-$CONFIG['enable_logging'] = false;
+$CONFIG['enable_logging'] = true;
 
 # Enter a destination for log files. A new log file will be created
 # each day in the directory specified. The directory must be
