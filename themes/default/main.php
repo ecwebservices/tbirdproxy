@@ -272,7 +272,7 @@
 		</ul>
 	</div>
 	<div id="footer">
-		Powered by ECWS. Not for deans!
+		Powered by <a href="http://www.glype.com/">Glype</a>&reg; <!--[version]-->.
 	</div>
 </div>
 </body>
